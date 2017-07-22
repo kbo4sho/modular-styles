@@ -1,6 +1,6 @@
-# Webpack Boiler w/ Babel
+# Modular styles
 
-Exploring a better way import specific styles 
+Exploring a better way to import specific styles and how local scope works with webpack. 
 
 ## Installation
 
