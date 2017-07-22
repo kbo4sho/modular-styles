@@ -5,7 +5,7 @@ https://github.com/css-modules/css-modules
 
 ## Installation
 
-Install dependencies (Webpack, Babel)
+Install dependencies
 
 ```sh
 $ npm install
