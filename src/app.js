@@ -1,18 +1,9 @@
+import h1 from './atoms/h1.js';
+import h2 from './atoms/h2.js';
+// import style from './styles.css';
 
-import _ from 'lodash';
-import style from './styles.css';
-
-// style.use();
+h1(); // runs a function thats tests this component and its styles 
+h2();
+// // style.use();
 
 console.log('Webpack Boiler Running...');
-
-function component() {
-  var element = document.createElement('div');
-
-  // Lodash, currently included via a script, is required for this line to work
-  element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-
-  return element;
-}
-
-document.body.appendChild(component());

@@ -1,5 +1,7 @@
 # Webpack Boiler w/ Babel
 
+Exploring a better way import specific styles 
+
 ## Installation
 
 Install dependencies (Webpack, Babel)
