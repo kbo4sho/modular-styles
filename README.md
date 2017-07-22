@@ -1,6 +1,7 @@
 # Modular styles
 
-Exploring a better way to import specific styles and how local scope works with webpack. 
+Exploring a better way to import specific styles and how local css-modules work with webpack.
+https://github.com/css-modules/css-modules
 
 ## Installation
 
